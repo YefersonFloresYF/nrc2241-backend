@@ -1,0 +1,7 @@
+POST http://localhost:9000/api/users HTTP/1.1
+ Content-Type: application/json
+
+{
+    "name": "Mauricio Flores",
+    "email": "ymfloresl@uninorte.edu.co"
+}
